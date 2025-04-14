@@ -1,0 +1,134 @@
+{
+  "pets": [
+    {
+      "Name": "Jasper",
+      "chipID": "213874303",
+      "ownerID": 4,
+      "age": 5,
+      "province": "Ontario",
+      "type": "Cat",
+      "characteristics": {
+        "breed": "American Short Hair",
+        "colour": "White",
+        "gender": "Male"
+      }
+    },
+    {
+      "Name": "Ari",
+      "chipID": "None",
+      "ownerID": 1,
+      "age": 2,
+      "province": "Quebec",
+      "type": "Bird",
+      "characteristics": {
+        "breed": "Budgie",
+        "colour": "White",
+        "gender": "Female"
+      }
+    },
+    {
+      "Name": "Ree",
+      "chipID": "None",
+      "ownerID": 1,
+      "age": 2,
+      "province": "Quebec",
+      "type": "Bird",
+      "characteristics": {
+        "breed": "Budgie",
+        "colour": "Blue",
+        "gender": "Female"
+      }
+    },
+    {
+      "Name": "Goldie",
+      "chipID": "None",
+      "ownerID": 2,
+      "age": 30,
+      "province": "Quebec",
+      "type": "Fish",
+      "characteristics": {
+        "breed": "Gold Fish",
+        "colour": "Orange",
+        "gender": "Male"
+      }
+    },
+    {
+      "Name": "Charlie",
+      "chipID": "562347821",
+      "ownerID": 5,
+      "age": 3,
+      "province": "BC",
+      "type": "Dog",
+      "characteristics": {
+        "breed": "Beagle",
+        "colour": "Tri-colour",
+        "gender": "Male"
+      }
+    },
+    {
+      "Name": "Luna",
+      "chipID": "785432910",
+      "ownerID": 6,
+      "age": 5,
+      "province": "Saskatchewan",
+      "type": "Cat",
+      "characteristics": {
+        "breed": "Siamese",
+        "colour": "Cream",
+        "gender": "Female"
+      }
+    },
+    {
+      "Name": "Whiskers",
+      "chipID": "934857201",
+      "ownerID": 6,
+      "age": 6,
+      "province": "Ontario",
+      "type": "Cat",
+      "characteristics": {
+        "breed": "Maine Coon",
+        "colour": "Gray",
+        "gender": "Male"
+      }
+    },
+    {
+      "Name": "Daisy",
+      "chipID": "482019347",
+      "ownerID": 7,
+      "age": 4,
+      "province": "Newfoundland",
+      "type": "Dog",
+      "characteristics": {
+        "breed": "Poodle",
+        "colour": "White",
+        "gender": "Female"
+      }
+    },
+    {
+      "Name": "Max",
+      "chipID": "710293845",
+      "ownerID": 8,
+      "age": 7,
+      "province": "Yukon",
+      "type": "Dog",
+      "characteristics": {
+        "breed": "German Shepherd",
+        "colour": "Black and tan",
+        "gender": "Male"
+      }
+    },
+    {
+      "Name": "Snowball",
+      "chipID": "629384710",
+      "ownerID": 8,
+      "age": 2,
+      "province": "Northwest Territories",
+      "type": "Cat",
+      "characteristics": {
+        "breed": "Persian",
+        "colour": "White",
+        "gender": "Female"
+      }
+    }
+  ]
+}

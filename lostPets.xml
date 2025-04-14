@@ -1,0 +1,122 @@
+<pets>
+	<Pet Name='Karma'>
+		<chipID>578783921</chipID>
+		<ownerID>1</ownerID>
+		<age>8</age>
+		<province>Ontario</province>
+		<type>Dog</type>
+			<characteristics>
+			<breed>Golden Retriever</breed>
+			<colour>Blond</colour>
+			<gender>Female</gender>
+			</characteristics>
+	</Pet>
+		<Pet Name='Blue'>
+		<chipID>468932234</chipID>
+		<ownerID>1</ownerID>
+		<age>3</age>
+		<province>Quebec</province>
+		<type>Dog</type>
+			<characteristics>
+			<breed>Black Lab Rottweiler</breed>
+			<colour>Black</colour>
+			<gender>Female</gender>
+			</characteristics>
+	</Pet>
+		<Pet Name='Periwinkle'>
+		<chipID>894275021</chipID>
+		<ownerID>2</ownerID>
+		<age>11</age>
+		<province>Alberta</province>
+		<type>Cat</type>
+			<characteristics>
+			<breed>American Short Hair</breed>
+			<colour>Black</colour>
+			<gender>Female</gender>
+			</characteristics>
+	</Pet>
+		<Pet Name='Baxter'>
+		<chipID>184753454</chipID>
+		<ownerID>2</ownerID>
+		<age>11 months</age>
+		<province>PEI</province>
+		<type>Cat</type>
+			<characteristics>
+			<breed>American Short Hair</breed>
+			<colour>Orange</colour>
+			<gender>Male</gender>
+			</characteristics>
+	</Pet>
+		<Pet Name='Ginger'>
+		<chipID>382901753</chipID>
+		<ownerID>2</ownerID>
+		<age>3</age>
+		<province>Nova Scotia</province>
+		<type>Dog</type>
+			<characteristics>
+			<breed>Golden Retriever</breed>
+			<colour>Blond</colour>
+			<gender>Female</gender>
+			</characteristics>
+	</Pet>
+		<Pet Name='Baily'>
+		<chipID>826345321</chipID>
+		<ownerID>3</ownerID>
+		<age>1</age>
+		<province>Ontario</province>
+		<type>Dog</type>
+			<characteristics>
+			<breed>Husky</breed>
+			<colour>White</colour>
+			<gender>Female</gender>
+			</characteristics>
+	</Pet>
+		<Pet Name='Sophine'>
+		<chipID>348204765</chipID>
+		<ownerID>4</ownerID>
+		<age>3</age>
+		<province>Quebec</province>
+		<type>Cat</type>
+			<characteristics>
+			<breed>American Short Hair</breed>
+			<colour>Black</colour>
+			<gender>Female</gender>
+			</characteristics>
+	</Pet>
+		<Pet Name='Will'>
+		<chipID>843275957</chipID>
+		<ownerID>4</ownerID>
+		<age>1</age>
+		<province>Nova Scotia</province>
+		<type>Cat</type>
+			<characteristics>
+			<breed>American Short Hair</breed>
+			<colour>Brown</colour>
+			<gender>Male</gender>
+			</characteristics>
+	</Pet>
+		<Pet Name='Bernadette'>
+		<chipID>342894754</chipID>
+		<ownerID>4</ownerID>
+		<age>12</age>
+		<province>PEI</province>
+		<type>Cat</type>
+			<characteristics>
+			<breed>American Short Hair</breed>
+			<colour>Tuxedo</colour>
+			<gender>Female</gender>
+			</characteristics>
+	</Pet>
+		<Pet Name='Cleo'>
+		<chipID>120943256</chipID>
+		<ownerID>4</ownerID>
+		<age>7</age>
+		<province>Alberta</province>
+		<type>Cat</type>
+			<characteristics>
+			<breed>American Short Hair</breed>
+			<colour>Orange</colour>
+			<gender>Female</gender>
+			</characteristics>
+	</Pet>
+</pets>
