@@ -1,0 +1,39 @@
+h1 {
+  font-size: 40px;
+  color: dodgerblue;
+  font-family: "times new roman", serif
+}
+
+
+p {
+  font-family: "verdana", sans-serif;
+  font-size: 20px;
+}
+
+
+table {
+  width: 100%;
+  padding: 15px;
+}
+
+td {
+  text-align: center;
+  font-family: "verdana", sans-serif;
+  font-size: 20px;
+}
+
+
+th {
+  height: 70px;
+  font-size: 25px;
+  font-family: "times new roman", serif;
+  color: dodgerblue;
+}
+
+tr:hover {
+  background-color: Lavender;
+}
+
+.left {
+  text-align: left;
+}
